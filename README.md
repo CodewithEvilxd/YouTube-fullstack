@@ -1,6 +1,6 @@
 <h1 align = "center"> 
 
-![qute-tube-logo-ghb-removebg-preview](https://github.com/amitanshusahu/YouTube-fullstack/assets/83657737/6e80619d-998c-42e6-aa76-089bc75ec9a1)
+![qute-tube-logo-ghb-removebg-preview](https://github.com/codewithevilxd/YouTube-fullstack/assets/83657737/6e80619d-998c-42e6-aa76-089bc75ec9a1)
 
 </h1>
 
@@ -9,9 +9,7 @@
 
 <div align="center">
     
-![Blue Modern Benefits of Running Youtube Thumbnail](https://github.com/amitanshusahu/YouTube-fullstack/assets/83657737/8ca90bc6-c4b3-4d53-8f49-fc0b028c34c2)
 
-[🔴 watch demo on youtube](https://youtu.be/4zdD7xFHhM0)
 
 </div>
 
@@ -80,18 +78,7 @@ cd client & npm run dev
 
 </div>
 
-## 📓 References
-- Articles
-    - [How HLS URLs work with adaptive streaming short overview](https://www.linkedin.com/pulse/how-hls-urls-work-adaptive-streaming-ios-abhinav-jha/)
-    - [Hls vod service in node js](https://medium.com/sharma02gaurav/adaptive-bitrate-streaming-hls-vod-service-in-nodejs-8df0d91d2eb4)
-    - [ffmpeg docs](https://www.ffmpeg.org/)
-- videos
-    - [youtube system design](https://www.youtube.com/watch?v=l3AOubKFB1U)
-    - [All about Digital Video - format , codecs & containers](https://youtu.be/-4NXxY4maYc)
-    - [ffmpeg in 100sec](https://youtu.be/26Mayv5JPz0)
-- Othes
-    - [Hls player to test your backend](https://hlsjs.video-dev.org/demo/)
-    - [Hls demo source code](https://github.com/amitanshusahu/HLS-demo)
+
 
 ---
 
